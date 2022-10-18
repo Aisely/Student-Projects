@@ -1,2 +1,2 @@
 # Tutorials
-Tutorial projects for the students.
+Tutorial projects for the Grow students.
